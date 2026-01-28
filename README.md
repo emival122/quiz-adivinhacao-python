@@ -76,4 +76,4 @@ Este projeto está sob a **Licença MIT**. Sinta-se à vontade para utilizar par
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/emival122/quizmaster.git](https://github.com/emival122/quizmaster.git)
+   git clone [https://github.com/emival122/quiz-adivinhacao-python.git](https://github.com/emival122/quiz-adivinhacao-python.git)
